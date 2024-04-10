@@ -8,3 +8,6 @@ This repository contains 2 notebooks which are
 
 ### Dataset Used :
 We use the DR dataset that is available in [kaggle](https://www.kaggle.com/c/diabetic-retinopathy-detection/data)
+
+
+Note : This is tensorflow version we have pytorch version of it.
